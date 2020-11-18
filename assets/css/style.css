@@ -1,0 +1,124 @@
+body {
+
+font-family: 'Archivo Black', sans-serif;
+font-family: 'Work Sans', sans-serif;
+font-family: 'Archivo', sans-serif;
+}
+
+header {
+  background-image: url('../img/bg_hero.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 10rem;
+}
+
+.fab {
+  color: white;
+}
+
+.tamano {
+  font-size: 0.7em;
+  }
+
+footer p {
+    font-size: 0.8em;
+    }
+
+.headerspace {
+  padding-top: 500px;
+}
+
+.linea {
+  height: 20px;
+  background-color: rgb(240, 240, 240);
+  border: none;
+}
+
+.parrafo {
+  font-size: 13px;
+}
+
+li {
+  font-size: 12px;
+}
+
+.funciones {
+  font-size: 10px;
+}
+
+.justificado {
+  text-align: left;
+}
+
+.oficina {
+  text-decoration-line: wavy;
+}
+
+.titulares {
+  font-size: 16px;
+}
+
+.estudios {
+  color: #447FF7;
+}
+
+.card {
+  border: 0;
+  border-radius: 5px;
+}
+
+.card-datos {
+  font-size: 12px;
+  color: darkgrey;
+}
+
+.btn {
+  font-size: 12px;
+}
+
+.badge {
+  font-size: 12px;
+  vertical-align:super;
+}
+
+.badge-warning {
+  font-size: 8px;
+  vertical-align:super;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.nombre {
+  font-family: 'Rubik Mono One', sans-serif;
+  font-size: 50px;
+}
+
+.titulo-seccion {
+  font-family: 'Rubik Mono One', sans-serif;
+  font-size: 40px;
+}
+
+.subtitulo-seccion {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 14px;
+}
+
+.container-habilidades {
+  width: 800px;
+  justify-content: center;
+  align-items: center;
+}
+
+.centrado {
+  text-align: center;
+}
+
+.subrayado {
+ width: 400px;
+  height: 1px;
+  background-color: #447FF7;
+  border: none;
+}
